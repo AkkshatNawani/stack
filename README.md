@@ -1,1 +1,1 @@
-# stack
+Full-Stack learning process
